@@ -1,0 +1,10 @@
+HTML 简介
+网页：网页是构成网站的基本元素，它通常由图片，链接，文字，声音，视频等元素组成。通常看到的网页以htm或html结尾，因此将此俗称为HTML文件
+HTML：hyper text markup language，是用来描述网页的一种语言。HTML不是编程语言，而是一种标记语言。标记语言是一套标记标签。
+
+WEB 标准
+主要包括结构（structure）HTML，表现（presentation）CSS，和行为（behaivor）Javascript
+
+HTML语法规范
+双标签<html> </html>，但标签<br/>
+标签关系：包换关系，并列关系
